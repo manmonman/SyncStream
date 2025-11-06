@@ -1,0 +1,5 @@
+yt-dlp
+websockets
+certifi
+colorama
+python-dotenv
